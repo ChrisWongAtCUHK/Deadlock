@@ -3,14 +3,14 @@ package oracle.concurrency.deadlock;
 import static java.lang.System.out;
 
 /**
- * @author WWC076
+ * @author Chris Wong
  * <p>
  * 	<a href="http://docs.oracle.com/javase/tutorial/essential/concurrency/deadlock.html">Deadlock</a>
  * </p>
  */
 public class Deadlock {
 	/**
-	 * @author WWC076
+	 * @author Chris Wong
 	 * Inner class Friend
 	 */
 	static class Friend {
